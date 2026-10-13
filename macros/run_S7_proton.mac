@@ -1,0 +1,395 @@
+/DetectorConstruction/SampleMaterial S7
+/MyGun/particleType proton
+/DetectorConstruction/SampleThickness 0.000058 um
+/MyGun/energy 10 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000063 um
+/MyGun/energy 11 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000069 um
+/MyGun/energy 12 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000074 um
+/MyGun/energy 13 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000079 um
+/MyGun/energy 14 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000085 um
+/MyGun/energy 15 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00009 um
+/MyGun/energy 16 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000095 um
+/MyGun/energy 17 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.0001 um
+/MyGun/energy 18 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000111 um
+/MyGun/energy 20 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000123 um
+/MyGun/energy 22.5 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000136 um
+/MyGun/energy 25 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000149 um
+/MyGun/energy 27.5 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000161 um
+/MyGun/energy 30 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000174 um
+/MyGun/energy 32.5 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000186 um
+/MyGun/energy 35 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000198 um
+/MyGun/energy 37.5 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00021 um
+/MyGun/energy 40 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000234 um
+/MyGun/energy 45 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000258 um
+/MyGun/energy 50 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000282 um
+/MyGun/energy 55 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000305 um
+/MyGun/energy 60 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000329 um
+/MyGun/energy 65 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000352 um
+/MyGun/energy 70 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000399 um
+/MyGun/energy 80 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000446 um
+/MyGun/energy 90 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000493 um
+/MyGun/energy 100 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00054 um
+/MyGun/energy 110 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000588 um
+/MyGun/energy 120 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000636 um
+/MyGun/energy 130 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000685 um
+/MyGun/energy 140 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000735 um
+/MyGun/energy 150 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000785 um
+/MyGun/energy 160 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000836 um
+/MyGun/energy 170 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000888 um
+/MyGun/energy 180 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.000994 um
+/MyGun/energy 200 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00113 um
+/MyGun/energy 225 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00127 um
+/MyGun/energy 250 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00142 um
+/MyGun/energy 275 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00157 um
+/MyGun/energy 300 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00173 um
+/MyGun/energy 325 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00189 um
+/MyGun/energy 350 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00206 um
+/MyGun/energy 375 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00223 um
+/MyGun/energy 400 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00259 um
+/MyGun/energy 450 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00296 um
+/MyGun/energy 500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00335 um
+/MyGun/energy 550 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00376 um
+/MyGun/energy 600 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00419 um
+/MyGun/energy 650 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00463 um
+/MyGun/energy 700 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00555 um
+/MyGun/energy 800 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00653 um
+/MyGun/energy 900 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00757 um
+/MyGun/energy 1000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00867 um
+/MyGun/energy 1100 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.00981 um
+/MyGun/energy 1200 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01101 um
+/MyGun/energy 1300 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01225 um
+/MyGun/energy 1400 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01354 um
+/MyGun/energy 1500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01488 um
+/MyGun/energy 1600 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01626 um
+/MyGun/energy 1700 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.01769 um
+/MyGun/energy 1800 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.02067 um
+/MyGun/energy 2000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.02464 um
+/MyGun/energy 2250 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.02886 um
+/MyGun/energy 2500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.03334 um
+/MyGun/energy 2750 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.03806 um
+/MyGun/energy 3000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.04302 um
+/MyGun/energy 3250 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.04821 um
+/MyGun/energy 3500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.05363 um
+/MyGun/energy 3750 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.05928 um
+/MyGun/energy 4000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.07123 um
+/MyGun/energy 4500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.08404 um
+/MyGun/energy 5000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.0977 um
+/MyGun/energy 5500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.11218 um
+/MyGun/energy 6000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.12747 um
+/MyGun/energy 6500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.14354 um
+/MyGun/energy 7000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.178 um
+/MyGun/energy 8000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.21549 um
+/MyGun/energy 9000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.25592 um
+/MyGun/energy 10000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.29924 um
+/MyGun/energy 11000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.34537 um
+/MyGun/energy 12000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.39428 um
+/MyGun/energy 13000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.44589 um
+/MyGun/energy 14000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.50018 um
+/MyGun/energy 15000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.55711 um
+/MyGun/energy 16000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.61662 um
+/MyGun/energy 17000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.67869 um
+/MyGun/energy 18000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.81033 um
+/MyGun/energy 20000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 0.98868 um
+/MyGun/energy 22500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 1.18 um
+/MyGun/energy 25000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 1.39 um
+/MyGun/energy 27500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 1.61 um
+/MyGun/energy 30000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 1.85 um
+/MyGun/energy 32500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 2.1 um
+/MyGun/energy 35000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 2.36 um
+/MyGun/energy 37500 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 2.64 um
+/MyGun/energy 40000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 3.23 um
+/MyGun/energy 45000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 3.87 um
+/MyGun/energy 50000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 4.56 um
+/MyGun/energy 55000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 5.3 um
+/MyGun/energy 60000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 6.09 um
+/MyGun/energy 65000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 6.92 um
+/MyGun/energy 70000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 8.7 um
+/MyGun/energy 80000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 10.66 um
+/MyGun/energy 90000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 12.77 um
+/MyGun/energy 100000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 15.04 um
+/MyGun/energy 110000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 17.45 um
+/MyGun/energy 120000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 20 um
+/MyGun/energy 130000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 22.69 um
+/MyGun/energy 140000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 25.51 um
+/MyGun/energy 150000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 28.46 um
+/MyGun/energy 160000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 31.53 um
+/MyGun/energy 170000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 34.71 um
+/MyGun/energy 180000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 41.41 um
+/MyGun/energy 200000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 50.37 um
+/MyGun/energy 225000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 59.94 um
+/MyGun/energy 250000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 70.07 um
+/MyGun/energy 275000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 80.73 um
+/MyGun/energy 300000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 91.86 um
+/MyGun/energy 325000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 103.44 um
+/MyGun/energy 350000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 115.43 um
+/MyGun/energy 375000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 127.81 um
+/MyGun/energy 400000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 153.61 um
+/MyGun/energy 450000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 180.66 um
+/MyGun/energy 500000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 208.82 um
+/MyGun/energy 550000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 237.93 um
+/MyGun/energy 600000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 267.9 um
+/MyGun/energy 650000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 298.61 um
+/MyGun/energy 700000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 361.91 um
+/MyGun/energy 800000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 427.29 um
+/MyGun/energy 900000 keV
+/run/beamOn 100000
+/DetectorConstruction/SampleThickness 494.33 um
+/MyGun/energy 1000000 keV
+/run/beamOn 100000

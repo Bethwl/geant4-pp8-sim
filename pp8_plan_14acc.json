@@ -1,0 +1,374 @@
+{
+  "haoidlemystic1": {
+    "1": [
+      {
+        "job_name": "S1_alpha_msp",
+        "macro_file": "run_S1_alpha.mac",
+        "sample": "S1",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S5_carbon_msp",
+        "macro_file": "run_S5_carbon.mac",
+        "sample": "S5",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S9_proton_msp",
+        "macro_file": "run_S9_proton.mac",
+        "sample": "S9",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "vuicho": {
+    "1": [
+      {
+        "job_name": "S1_carbon_msp",
+        "macro_file": "run_S1_carbon.mac",
+        "sample": "S1",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S5_proton_msp",
+        "macro_file": "run_S5_proton.mac",
+        "sample": "S5",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "haoidle4zk": {
+    "1": [
+      {
+        "job_name": "S1_proton_msp",
+        "macro_file": "run_S1_proton.mac",
+        "sample": "S1",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S6_alpha_msp",
+        "macro_file": "run_S6_alpha.mac",
+        "sample": "S6",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "67hao": {
+    "1": [
+      {
+        "job_name": "S2_alpha_msp",
+        "macro_file": "run_S2_alpha.mac",
+        "sample": "S2",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S6_carbon_msp",
+        "macro_file": "run_S6_carbon.mac",
+        "sample": "S6",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "idlemystich": {
+    "1": [
+      {
+        "job_name": "S2_carbon_msp",
+        "macro_file": "run_S2_carbon.mac",
+        "sample": "S2",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S6_proton_msp",
+        "macro_file": "run_S6_proton.mac",
+        "sample": "S6",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "CarwynDuc": {
+    "1": [
+      {
+        "job_name": "S2_proton_msp",
+        "macro_file": "run_S2_proton.mac",
+        "sample": "S2",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S7_alpha_msp",
+        "macro_file": "run_S7_alpha.mac",
+        "sample": "S7",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "laolaolaoma09": {
+    "1": [
+      {
+        "job_name": "S3_alpha_msp",
+        "macro_file": "run_S3_alpha.mac",
+        "sample": "S3",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S7_carbon_msp",
+        "macro_file": "run_S7_carbon.mac",
+        "sample": "S7",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "Bethwl": {
+    "1": [
+      {
+        "job_name": "S3_carbon_msp",
+        "macro_file": "run_S3_carbon.mac",
+        "sample": "S3",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S7_proton_msp",
+        "macro_file": "run_S7_proton.mac",
+        "sample": "S7",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "coredaohaojack": {
+    "1": [
+      {
+        "job_name": "S3_proton_msp",
+        "macro_file": "run_S3_proton.mac",
+        "sample": "S3",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S8_alpha_msp",
+        "macro_file": "run_S8_alpha.mac",
+        "sample": "S8",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "htvnhe": {
+    "1": [
+      {
+        "job_name": "S4_alpha_msp",
+        "macro_file": "run_S4_alpha.mac",
+        "sample": "S4",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S8_carbon_msp",
+        "macro_file": "run_S8_carbon.mac",
+        "sample": "S8",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "haohue27": {
+    "1": [
+      {
+        "job_name": "S4_carbon_msp",
+        "macro_file": "run_S4_carbon.mac",
+        "sample": "S4",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S8_proton_msp",
+        "macro_file": "run_S8_proton.mac",
+        "sample": "S8",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "fewhourtorelax": {
+    "1": [
+      {
+        "job_name": "S4_proton_msp",
+        "macro_file": "run_S4_proton.mac",
+        "sample": "S4",
+        "particle": "proton",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S9_alpha_msp",
+        "macro_file": "run_S9_alpha.mac",
+        "sample": "S9",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "zotactothesun": {
+    "1": [
+      {
+        "job_name": "S5_alpha_msp",
+        "macro_file": "run_S5_alpha.mac",
+        "sample": "S5",
+        "particle": "alpha",
+        "primaries": 100000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S9_carbon_msp",
+        "macro_file": "run_S9_carbon.mac",
+        "sample": "S9",
+        "particle": "carbon",
+        "primaries": 100000
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  }
+}
